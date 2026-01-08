@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60ddfea2-db27-4331-b96e-2aa33b0601b0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/build_ios.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build_ios.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="SCSS File" />
+        <option value="GitHub Workflow" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="alex-semperteam &lt;alex.s@semperteam.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="KREW-155" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alex-semperteam&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MaxWeberMezox/build-ios-test.git&quot;,
+    &quot;accountId&quot;: &quot;61c34c0a-14b6-48f5-97e4-17dcf62322bd&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="33jX9KMDMsj0yANN3aLgQNCdQ2Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "js.linters.configure.manually.selectedeslint": "true",
+    "last_opened_file_path": "D:/Work/test",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "D:\\Work\\moodleapp\\node_modules\\eslint",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "ts.external.directory.path": "D:\\Work\\test\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\moodleapp\resources\android" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\moodleapp\src\core\features\test\pages\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60ddfea2-db27-4331-b96e-2aa33b0601b0" name="Changes" comment="" />
+      <created>1759831305427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759831305427</updated>
+      <workItem from="1759831307118" duration="10659000" />
+      <workItem from="1759847536674" duration="4643000" />
+      <workItem from="1759852699112" duration="2464000" />
+      <workItem from="1759909366068" duration="6329000" />
+      <workItem from="1759922589749" duration="1620000" />
+      <workItem from="1759930778690" duration="7636000" />
+      <workItem from="1759939566802" duration="5045000" />
+      <workItem from="1759993296622" duration="10016000" />
+      <workItem from="1760022609880" duration="873000" />
+      <workItem from="1760361504984" duration="4372000" />
+      <workItem from="1760534086617" duration="3600000" />
+      <workItem from="1761230443455" duration="3044000" />
+      <workItem from="1761290895830" duration="2833000" />
+      <workItem from="1761294408526" duration="60000" />
+      <workItem from="1761294477063" duration="8826000" />
+      <workItem from="1761305170149" duration="1638000" />
+      <workItem from="1761307185093" duration="9096000" />
+      <workItem from="1761554633484" duration="3094000" />
+      <workItem from="1761563593202" duration="2991000" />
+      <workItem from="1761645252522" duration="11776000" />
+      <workItem from="1761734531681" duration="10501000" />
+      <workItem from="1761812500263" duration="21673000" />
+      <workItem from="1761899488923" duration="24857000" />
+      <workItem from="1762164385812" duration="6179000" />
+      <workItem from="1762241262107" duration="1671000" />
+      <workItem from="1762327353893" duration="13105000" />
+      <workItem from="1762423669873" duration="7452000" />
+      <workItem from="1762434322064" duration="1301000" />
+      <workItem from="1762520050107" duration="3010000" />
+      <workItem from="1762526325876" duration="83000" />
+      <workItem from="1762532159503" duration="1427000" />
+      <workItem from="1762765494107" duration="6155000" />
+      <workItem from="1762775821063" duration="333000" />
+      <workItem from="1762779482994" duration="6492000" />
+      <workItem from="1762786791704" duration="497000" />
+      <workItem from="1762787576595" duration="5072000" />
+      <workItem from="1762853371105" duration="12634000" />
+      <workItem from="1762867102630" duration="5507000" />
+      <workItem from="1762933842812" duration="19008000" />
+      <workItem from="1763029820305" duration="4264000" />
+      <workItem from="1763040238761" duration="914000" />
+      <workItem from="1763048665283" duration="1495000" />
+      <workItem from="1763110147293" duration="2289000" />
+      <workItem from="1763113588874" duration="9499000" />
+      <workItem from="1763370689545" duration="1895000" />
+      <workItem from="1763373498854" duration="11812000" />
+      <workItem from="1763537490633" duration="19308000" />
+      <workItem from="1763624037253" duration="17818000" />
+      <workItem from="1763718898553" duration="13702000" />
+      <workItem from="1763810976979" duration="6460000" />
+      <workItem from="1763978060035" duration="6331000" />
+      <workItem from="1763989801424" duration="4740000" />
+      <workItem from="1763997497214" duration="20000" />
+      <workItem from="1763997611817" duration="13000" />
+      <workItem from="1763997978932" duration="303000" />
+      <workItem from="1763998345835" duration="812000" />
+      <workItem from="1764000207109" duration="1120000" />
+      <workItem from="1764001387045" duration="251000" />
+      <workItem from="1764001714457" duration="219000" />
+      <workItem from="1764001994865" duration="141000" />
+      <workItem from="1764002192382" duration="3322000" />
+      <workItem from="1764056162964" duration="599000" />
+      <workItem from="1764057681639" duration="1000" />
+      <workItem from="1764085115816" duration="1204000" />
+      <workItem from="1764089351675" duration="183000" />
+      <workItem from="1764089564864" duration="3691000" />
+      <workItem from="1764147208279" duration="11528000" />
+      <workItem from="1764176690774" duration="184000" />
+      <workItem from="1764178158616" duration="1517000" />
+      <workItem from="1764233061883" duration="3352000" />
+      <workItem from="1764236457669" duration="8350000" />
+      <workItem from="1764315685228" duration="11609000" />
+      <workItem from="1764671440327" duration="620000" />
+      <workItem from="1764677460003" duration="19797000" />
+      <workItem from="1764702015538" duration="10894000" />
+      <workItem from="1767874104511" duration="1543000" />
+    </task>
+    <task id="LOCAL-00001" summary="Merge pull request #7 from dorsetcreative/KREW-155/test_build_ios_workflow_implementation&#10;&#10;Create build_ios.yml">
+      <option name="closed" value="true" />
+      <created>1763731048786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763731048786</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="6f00feef-9d6c-4d1c-8351-0775132b4be8" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="6f00feef-9d6c-4d1c-8351-0775132b4be8">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge pull request #7 from dorsetcreative/KREW-155/test_build_ios_workflow_implementation&#10;&#10;Create build_ios.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge pull request #7 from dorsetcreative/KREW-155/test_build_ios_workflow_implementation&#10;&#10;Create build_ios.yml" />
+  </component>
+</project>

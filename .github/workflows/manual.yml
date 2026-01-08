@@ -1,0 +1,22 @@
+name: Build iOS (Ionic + Cordova)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [test, test2]
+
+jobs:
+  build-ios:
+    runs-on: macos-latest
+    environment: ${{ github.ref_name }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check secrets in different environments
+        run: |
+          echo "Current branch: ${{ github.ref_name }}"
+          echo "NODE_ENV=${{ secrets.TEST_SECRET }}" >> $GITHUB_ENV
+          echo "TEST_SECRET value: ${{ secrets.TEST_SECRET }}"
+          echo "Final NODE_ENV: $NODE_ENV"
