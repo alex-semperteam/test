@@ -20,4 +20,8 @@ jobs:
           echo "NODE_ENV=${{ secrets.TEST_SECRET }}" >> $GITHUB_ENV
           echo "TEST_SECRET value: ${{ secrets.TEST_SECRET }}"
           echo "Final $GITHUB_ENV: $GITHUB_ENV"
+          
+
+      - name: log
+        run: |
           echo "Final NODE_ENV: ${{ env.NODE_ENV }}"
