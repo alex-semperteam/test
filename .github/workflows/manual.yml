@@ -19,4 +19,5 @@ jobs:
           echo "Current branch: ${{ github.ref_name }}"
           echo "NODE_ENV=${{ secrets.TEST_SECRET }}" >> $GITHUB_ENV
           echo "TEST_SECRET value: ${{ secrets.TEST_SECRET }}"
-          echo "Final NODE_ENV: $NODE_ENV"
+          echo "Final $GITHUB_ENV: $GITHUB_ENV"
+          echo "Final NODE_ENV: ${{ env.NODE_ENV }}"
